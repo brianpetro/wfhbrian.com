@@ -6,6 +6,12 @@
       <description>Last 10 notes on 🌴 WFH Brian</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Why I Ditched WordPress for Obsidian + Quartz (and Haven&#039;t Looked Back)</title>
+    <link>https://wfhbrian.com/obsidian/Migrating-from-WordPress-to-Obsidian-+-Quartz</link>
+    <guid>https://wfhbrian.com/obsidian/Migrating-from-WordPress-to-Obsidian-+-Quartz</guid>
+    <description>Look, I get it—moving from WordPress can sound like a hassle. It’s familiar, widely used, and sometimes it seems like the only option for hosting your blog.</description>
+    <pubDate>Fri, 25 Oct 2024 18:33:45 GMT</pubDate>
+  </item><item>
     <title>🌴 Brian&#039;s Blog</title>
     <link>https://wfhbrian.com/</link>
     <guid>https://wfhbrian.com/</guid>
@@ -13,38 +19,32 @@
     <pubDate>Thu, 24 Oct 2024 16:20:02 GMT</pubDate>
   </item><item>
     <title>Stay Focused in Obsidian - My CSS Snippet for reducing distractions</title>
-    <link>https://wfhbrian.com/stay-focused-in-obsidian-my-css-snippet-for-reducing-distractions</link>
-    <guid>https://wfhbrian.com/stay-focused-in-obsidian-my-css-snippet-for-reducing-distractions</guid>
+    <link>https://wfhbrian.com/obsidian/stay-focused-in-obsidian-my-css-snippet-for-reducing-distractions</link>
+    <guid>https://wfhbrian.com/obsidian/stay-focused-in-obsidian-my-css-snippet-for-reducing-distractions</guid>
     <description>Stay Focused in Obsidian - My CSS Snippet for reducing distractions.</description>
     <pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
   </item><item>
     <title>Simple Eisenhower matrix template for Obsidian Canvas</title>
-    <link>https://wfhbrian.com/simple-eisenhower-matrix-template-for-obsidian-canvas</link>
-    <guid>https://wfhbrian.com/simple-eisenhower-matrix-template-for-obsidian-canvas</guid>
+    <link>https://wfhbrian.com/obsidian/simple-eisenhower-matrix-template-for-obsidian-canvas</link>
+    <guid>https://wfhbrian.com/obsidian/simple-eisenhower-matrix-template-for-obsidian-canvas</guid>
     <description>Simple Eisenhower matrix template for Obsidian Canvas.</description>
     <pubDate>Sun, 21 Apr 2024 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Publishing from Obsidian via WordPress plugin</title>
-    <link>https://wfhbrian.com/publishing-from-obsidian-via-wordpress-plugin</link>
-    <guid>https://wfhbrian.com/publishing-from-obsidian-via-wordpress-plugin</guid>
-    <description>Publishing from Obsidian via WordPress plugin.</description>
-    <pubDate>Sat, 23 Mar 2024 00:00:00 GMT</pubDate>
-  </item><item>
     <title>Vector dimension precision effect on cosine similarity</title>
-    <link>https://wfhbrian.com/vector-dimension-precision-effect-on-cosine-similarity</link>
-    <guid>https://wfhbrian.com/vector-dimension-precision-effect-on-cosine-similarity</guid>
+    <link>https://wfhbrian.com/artificial-intelligence/vector-dimension-precision-effect-on-cosine-similarity</link>
+    <guid>https://wfhbrian.com/artificial-intelligence/vector-dimension-precision-effect-on-cosine-similarity</guid>
     <description>Vector dimension precision effect on cosine similarity.</description>
     <pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
   </item><item>
     <title>Mastering ChatGPT&#039;s Code Interpreter: Comprehensive List of Python Packages in ChatGPT&#039;s Code Interpreter</title>
-    <link>https://wfhbrian.com/mastering-chatgpts-code-interpreter-list-of-python-packages</link>
-    <guid>https://wfhbrian.com/mastering-chatgpts-code-interpreter-list-of-python-packages</guid>
+    <link>https://wfhbrian.com/artificial-intelligence/mastering-chatgpts-code-interpreter-list-of-python-packages</link>
+    <guid>https://wfhbrian.com/artificial-intelligence/mastering-chatgpts-code-interpreter-list-of-python-packages</guid>
     <description>Mastering ChatGPT's Code Interpreter: Comprehensive List of Python Packages in ChatGPT's Code Interpreter.</description>
     <pubDate>Mon, 08 May 2023 00:00:00 GMT</pubDate>
   </item><item>
     <title>Mastering ChatGPT Plugins: Optimizing Prompt Space in the Dynamic Plugin Prompt</title>
-    <link>https://wfhbrian.com/mastering-chatgpt-plugins-plugin-prompt-space</link>
-    <guid>https://wfhbrian.com/mastering-chatgpt-plugins-plugin-prompt-space</guid>
+    <link>https://wfhbrian.com/artificial-intelligence/mastering-chatgpt-plugins-plugin-prompt-space</link>
+    <guid>https://wfhbrian.com/artificial-intelligence/mastering-chatgpt-plugins-plugin-prompt-space</guid>
     <description>Mastering ChatGPT Plugins: Optimizing Prompt Space in the Dynamic Plugin Prompt.</description>
     <pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
   </item><item>
@@ -55,14 +55,14 @@
     <pubDate>Wed, 26 Apr 2023 00:00:00 GMT</pubDate>
   </item><item>
     <title>Enhancing Large Document Summarization with Embeddings and Semantic Similarity</title>
-    <link>https://wfhbrian.com/enhancing-large-document-summarization-with-embeddings-and-semantic-similarity</link>
-    <guid>https://wfhbrian.com/enhancing-large-document-summarization-with-embeddings-and-semantic-similarity</guid>
+    <link>https://wfhbrian.com/artificial-intelligence/enhancing-large-document-summarization-with-embeddings-and-semantic-similarity</link>
+    <guid>https://wfhbrian.com/artificial-intelligence/enhancing-large-document-summarization-with-embeddings-and-semantic-similarity</guid>
     <description>Enhancing Large Document Summarization with Embeddings and Semantic Similarity.</description>
     <pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
   </item><item>
     <title>How Attorneys and Law Offices can utilize Generative AI like ChatGPT</title>
-    <link>https://wfhbrian.com/how-attorneys-and-law-offices-can-utilize-generative-ai-like-chatgpt</link>
-    <guid>https://wfhbrian.com/how-attorneys-and-law-offices-can-utilize-generative-ai-like-chatgpt</guid>
+    <link>https://wfhbrian.com/artificial-intelligence/how-attorneys-and-law-offices-can-utilize-generative-ai-like-chatgpt</link>
+    <guid>https://wfhbrian.com/artificial-intelligence/how-attorneys-and-law-offices-can-utilize-generative-ai-like-chatgpt</guid>
     <description>How Attorneys and Law Offices can utilize Generative AI like ChatGPT.</description>
     <pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
   </item>
